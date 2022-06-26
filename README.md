@@ -1,6 +1,5 @@
 # minetest-tnt
-This is a modified tnt mod for minetest
-
+This is a modified tnt mod for minetest.  It's designed to work in such a way that servers won't crash when it's used.  This is done by introducing a delay between explosions.  
 
 -- Here is the README.txt from the original mod --
 Minetest Game mod: tnt
